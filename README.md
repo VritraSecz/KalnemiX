@@ -54,9 +54,9 @@
 
 ## Installation
 > For Termux User
-+ `apt-get update -y`
-+ `apt-get upgrade -y`
-+ `apt-get install git -y`
++ `apt update -y`
++ `apt upgrade -y`
++ `apt install git -y`
 + `git clone https://github.com/MrHacker-X/KalnemiX.git`
 + `cd KalnemiX`
 + `chmod +x *`
