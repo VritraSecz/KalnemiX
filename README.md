@@ -29,7 +29,7 @@
 
 ## Description
 
-+ KalnemiX is a powerful and user-friendly web pentesting tool designed to assist in the testing and evaluation of website security. With its comprehensive range of features, KalnemiX is capable of conducting a variety of tests, including WhoIs and IP lookups, subdomain and hidden file searches, hash cracking, and port scanning. Additionally, the tool includes a DNS lookup feature, traceroute functionality, and the ability to extract URLs and scan for open ports. With its robust feature set and intuitive interface, KalnemiX is an essential tool for security researchers, network administrators, and anyone else who needs to assess the security of websites and web applications.
++ KalnemiX is a powerful and user-friendly web pentesting tool designed to assist in the testing and evaluation of website security. With its comprehensive range of features, KalnemiX is capable of conducting a variety of tests, including WhoIs and IP lookups, subdomain and hidden file searches, hash cracking, and port scanning. Additionally, the tool includes a DNS lookup feature, traceroute functionality, and the ability to extract URLs and scan for open ports. With its robust feature set and intuitive interface, KalnemiX is an essential tool for security researchers, network administrators, and anyone else who needs to access the security of websites and web applications.
 
 ## Complete Features
 
