@@ -1,4 +1,5 @@
-# Python code obfuscated by www.development-tools.net 
+## Script by MrHacker-X
+## https://github.com/MrHacker-X
  
 
 import base64, codecs
