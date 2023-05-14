@@ -23,7 +23,7 @@
 
 </p>
 
-### Update To Latest version V:1.0.2
+### Updated To Latest version V:1.0.2
 ## What's new ??
 
 + Enhanced User Experience
