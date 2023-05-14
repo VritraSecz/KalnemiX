@@ -23,6 +23,19 @@
 
 </p>
 
+### Update To Latest version V:1.0.2
+## What's new ??
+
++ Enhanced User Experience
++ Added New Features
+
+```
+[+] SSL Scan                                                              
+[+] OS Fingerprint                                                          
+[+] Create Reverse Shell                                                           
+[+] Create Deface Page                                                   
+```
+
 ## Overview
 
 + KalnemiX is a comprehensive web pentesting tool that provides a variety of features to test and assess the security of web applications. It offers a wide range of functions such as WhoIs lookup, IP lookup, subdomain discovery, HTTP header display, robots scanner and More.
@@ -48,7 +61,11 @@
 [11] Find Hidden files 
 [12] Crack Hash  
 [13] Get IMG Metadata
-[14] Subnet Lookup                      
+[14] Subnet Lookup  
+[15] SSL Scan                                                              
+[16] OS Fingerprint                                                          
+[17] Create Reverse Shell                                                           
+[18] Create Deface Page                     
 
 ```
 
