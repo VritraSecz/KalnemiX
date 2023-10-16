@@ -1,8 +1,5 @@
 # KalnemiX
 
-<p align="center">
-<a href="https://instagram.com/0hacker.x0"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
-</p>
 
 <p align="center">
 <a href="https://youtube.com/@Technolex"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
