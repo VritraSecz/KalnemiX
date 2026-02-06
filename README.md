@@ -195,7 +195,7 @@ KalnemiX features 20+ specialized reconnaissance modules organized into function
 |--------|-------------|---------------|
 | 🔓 **Hash Cracking** | Password hash cracking with multiple algorithms | `--crackhash <hash> --hash-type md5 --wordlist core/crack_hash_pass.txt` |
 | 📷 **Image Metadata** | Extract EXIF and metadata from image files | `--imgmeta /path/to/image.jpg` |
-| 🐚 **Reverse Shell Generator** | Create reverse shell payloads for authorized testing | `--reverse-shell 1.2.3.4:4444` |
+| 🐚 **Reverse Connection Template** | Generate reverse connection template for authorized lab use only | `--reverse-shell 192.0.2.1:4444` |
 
 ---
 
@@ -405,7 +405,7 @@ python kalnemix.py --crackhash <hash> --hash-type md5 --wordlist core/crack_hash
 python kalnemix.py --imgmeta /path/to/image.jpg
 
 # Generate reverse shell payload
-python kalnemix.py --reverse-shell 1.2.3.4:4444
+python kalnemix.py --reverse-shell 192.0.2.1:4444
 ```
 
 #### Supported Hash Types
